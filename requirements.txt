@@ -1,0 +1,7 @@
+yfinance
+requests
+pymongo
+python-dotenv
+vaderSentiment
+pandas
+schedule
